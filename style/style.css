@@ -47,14 +47,14 @@ section#redes-sociais{
 
 
 
-section#redes-sociais img{
+section#redes-sociais > a > img{
     width: 50px;
     border-radius: 50%;
     margin: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.401);
     box-sizing: border-box;
 }
-section#redes-sociais img:hover{
+section#redes-sociais > a> img:hover{
     border: 2px solid rgba(255, 255, 255, 0.64);
     transform: scale(95%);
     transform: translate(-2px, -1px);
