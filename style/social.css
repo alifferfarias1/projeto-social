@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{ display: block;
+    color: white;
+    background-color: darkred;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+
+}
+img{
+    width: 100%;
+    overflow-y: hidden;
+
+    
+
+}
+::-webkit-scroll-bar{
+    width: 0px;
+    height: 0px;
+
+}
+a:hover{background-color: red;}
+
+
+.diminuir-img{
+    width: 80%;
+    height: 70%;
+}
